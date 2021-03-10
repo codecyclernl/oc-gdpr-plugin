@@ -1,6 +1,6 @@
 {
-    "name": "codecycler/oc-skeleton-plugin",
-    "description": "Skeleton plugin for October CMS",
+    "name": "codecycler/oc-gdpr-plugin",
+    "description": "GDPR plugin for October CMS",
     "type": "october-plugin",
     "license": "GPL-3.0-only",
     "authors": [
@@ -9,5 +9,8 @@
             "email": "sebastiaan@codecycler.com"
         }
     ],
-    "require": {}
+    "require": {
+        "codecycler/oc-extend-plugin": "dev-main",
+        "renatio/dynamicpdf-plugin": "dev-master"
+    }
 }
