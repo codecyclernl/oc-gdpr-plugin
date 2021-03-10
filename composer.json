@@ -1,0 +1,13 @@
+{
+    "name": "codecycler/oc-skeleton-plugin",
+    "description": "Skeleton plugin for October CMS",
+    "type": "october-plugin",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "Sebastiaan Kloos",
+            "email": "sebastiaan@codecycler.com"
+        }
+    ],
+    "require": {}
+}
